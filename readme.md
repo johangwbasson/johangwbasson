@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johan Basson</h1>
 <h3 align="center">A passionate Java developer with an interest in functional programming and microservices</h3>
 
-- 🔭 I’m currently working on [neo](https://github.com/johangwbasson/neo)
-
-- 🌱 I’m currently learning **Functional Programming using Vavr**
-
 - 👨‍💻 All of my projects are available at [https://github.com/johangwbasson](https://github.com/johangwbasson)
 
 - 💬 Ask me about **java, microservices, linux, spring, aurelia, javascript, typescript**
